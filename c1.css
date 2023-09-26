@@ -1,0 +1,17 @@
+#a1{
+    background-color:bisque  ; height: 100px ; padding-left: 5px;
+    padding-right: 5px; padding-top: 5px; padding-bottom: 5px;
+    border-color: black; border-style:dashed; border-radius: 10px;
+    margin-right: 50px; margin-left: 80px;
+    
+    
+}
+#a2{
+    background-color: darkolivegreen;
+}
+#a3{
+    background-color: cadetblue; height: 95px; width: 105px;
+}
+#a5{
+    background-color: aqua;
+}
